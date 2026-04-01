@@ -1,0 +1,26 @@
+button:hover{
+    background: #808080;
+    color:antiquewhite;
+    border: 2px solid bisque;
+}
+button {
+    border-radius: 12px;
+    padding: 6px;
+    border: 2px solid #696969;
+    margin: 3px;
+}
+header {
+    color: #696969;
+    text-align: center;
+}
+body{background:url('хехех.png') center/cover no-repeat;min-height:100vh}
+button {
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px 
+    ;
+}
